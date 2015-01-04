@@ -16,7 +16,6 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="ios8.svg"
-   inkscape:export-filename="/home/user/8-bit_template.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144">
   <defs
@@ -62,13 +61,6 @@
      style="opacity:0.61788617;display:none"
      sodipodi:insensitive="true"
      transform="translate(-85,-182.375)">
-    <image
-       y="64.487793"
-       x="54.606884"
-       id="image5071"
-       xlink:href="file:///tmp/inkscape-clipboard-import"
-       height="470.70816"
-       width="627.61084" />
   </g>
   <g
      inkscape:label="Сетка"
